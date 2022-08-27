@@ -1,0 +1,11 @@
+// Archivos de configuración de reglas ESLint
+
+{
+    "rules": {
+        "eqeqeq": "warn",
+        "strict": "off",
+        "quotes": ["error", "double"], // Solo usar comillas dobles
+        "semi": ["error", "never"], // No usar punto y coma
+        "no-dupe-keys": "error" // No puede haber dos atributos o métodos con el mismo nombre en un solo objeto
+    }
+}
