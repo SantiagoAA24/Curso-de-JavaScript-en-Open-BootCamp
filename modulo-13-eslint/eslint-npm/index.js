@@ -10,3 +10,7 @@ const nuevoString = 'Esto es un nuevo string'; // eslint-disable-line
   const string2 = "Más string"
 
 // console.log("Hola")
+
+// Instalacion de eslint
+// 1. npm i -D eslint -> en la consola, donde se encuentre el proyecto
+// 2. npm init @eslint/config -> en la misma ubicación
